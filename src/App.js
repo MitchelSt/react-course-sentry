@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <button type="button" onClick={() => console.log('button was clicked')}>Click here to throw an error</button>
-    </div>
+    </div >
   );
 }
 
